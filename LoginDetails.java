@@ -7,6 +7,7 @@ public class LoginDetails implements Serializable {
 	private String loginWebsiteName , loginUsername , loginPassword , loginURL;
 	/**
 	 * Empty constructor to initialize null object
+	 new comment
 	 */
 	public LoginDetails() {}
 	
